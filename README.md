@@ -1,9 +1,3 @@
----
-  languages: bash
-  tags: git, todo, tutorial
-  resources: 4
----
-
 # Git Todo
 
 ## Prerequisites
