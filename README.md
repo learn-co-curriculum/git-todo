@@ -139,6 +139,8 @@ It looks something like this:
 We have an existing repository on our computer, so paste the 2 lines in that section in
 to your terminal within the "git-todo" repository directory.
 
+***Remember to toggle the `SSH` tab as shown in the image above.***
+
 The first line that starts off with `git remote add` tells your git
 repository where on the internet your Github repository lives.
 
