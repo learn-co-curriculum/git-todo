@@ -76,7 +76,7 @@ both "README.md" and a directory called ".git". The dot preceding the
 directory name tells your operating system that it is hidden, which is
 why you gave the "-a" option to ls. Everything that makes your git
 repository a git repository is in this directory! This means that if you
-were to delete the ".git" directory then this directory would not longer
+were to delete the ".git" directory then this directory would no longer
 be a git repository.
 
 Now you have to tell git which files you would like to keep track of.
