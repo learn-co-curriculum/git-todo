@@ -160,3 +160,5 @@ the README.md file:
 * [Pro Git](http://git-scm.com/book/) - [2.1 Git Basics - Getting a Git Repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository)
 * [Pro Git](http://git-scm.com/book/) - [2.2 Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - [Introduction Sequence: Introduction to Git Commits](http://pcottle.github.io/learnGitBranching/), page NA
+
+<a href='https://learn.co/lessons/git-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
