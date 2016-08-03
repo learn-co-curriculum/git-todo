@@ -18,7 +18,7 @@
 This is a tutorial for creating the most basic git repository possible
 and adding it to the online service Github.
 
-Git is a "distibuted source control management system".
+Git is a "distributed source control management system".
 
 It is a "source control management system" in the sense that it helps
 programmers to control and manage changes being made to a collection of
@@ -162,3 +162,5 @@ the README.md file:
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - [Introduction Sequence: Introduction to Git Commits](http://pcottle.github.io/learnGitBranching/), page NA
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-todo' title='Git Todo'>Git Todo</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/git-todo'>Git Todo</a> on Learn.co and start learning to code for free.</p>
